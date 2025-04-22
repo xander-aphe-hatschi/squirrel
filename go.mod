@@ -1,4 +1,4 @@
-module github.com/Masterminds/squirrel
+module github.com/xander-aphe-hatschi/squirrel
 
 go 1.14
 
